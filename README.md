@@ -12,6 +12,7 @@ Getting started with express JS by following the [Express.js & Node.js Course fo
 - Form input validation and form re-render with error messages using validator and lodash
 - Implmentation of access control using a middleware in ExpressJS
 - User admin based permission to access content
+
 ## Setup Guide
 - Install ``Node >= v10.0``
 - Install ``PostgresSQL``
@@ -22,6 +23,7 @@ Getting started with express JS by following the [Express.js & Node.js Course fo
 - Run ``npm start`` to run the project on ``localhost:3000``
 
 ## Followed Development Steps
+
 
 - Create Project using Express generator ``npx express-generator`` then ``express --view=pug myapp``
 - install Sequelize using ``npm install sequelize --save`` and ``npm install pg --save``
