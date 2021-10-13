@@ -21,7 +21,6 @@ Getting started with express JS by following the [Express.js & Node.js Course fo
 - Run ``npm start`` to run the project on ``localhost:3000``
 
 ## Followed Development Steps
-
 - Create Project using Express generator ``npx express-generator`` then ``express --view=pug myapp``
 - install Sequelize using ``npm install sequelize --save`` and ``npm install pg --save``
 - install Sequelize cli globally using ``npm install sequelize-cli -g``
