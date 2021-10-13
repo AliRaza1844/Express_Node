@@ -1,6 +1,5 @@
 # Express Node
 Getting started with express JS by following the [Express.js & Node.js Course for Beginners Crash Course of FreeCodeCamp.org](https://youtu.be/G8uL0lFFoN0)
-
 - Implementation of CRUD design pattern
 - Pug as template engine
 - PostgreSql as database
@@ -12,7 +11,6 @@ Getting started with express JS by following the [Express.js & Node.js Course fo
 - Form input validation and form re-render with error messages using validator and lodash
 - Implmentation of access control using a middleware in ExpressJS
 - User admin based permission to access content
-
 ## Setup Guide
 - Install ``Node >= v10.0``
 - Install ``PostgresSQL``
